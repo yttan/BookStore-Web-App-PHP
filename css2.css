@@ -1,0 +1,41 @@
+h1{
+	color:black;
+	font-size: 40px;
+	text-align: center;
+}
+body{
+	color: #000;
+	background: #fff;
+	margin: 0;
+	padding: 0;
+
+}
+p{
+	font-style: italic;
+	text-align: left;
+	margin-top: 0.5em;
+	font-size: 23px;
+}
+table{
+	
+	padding: 5px;
+	vertical-align: center;
+	text-align: center;
+	
+}
+tr{
+	border: 1px ;
+	font-size: 17px;
+}
+td{
+	border: 1px;
+    max-width: 500px;
+	font-size: 20px;
+
+}
+
+input:invalid{
+			  border-color: #900;
+			  background-color: #FDD;
+			}
+
